@@ -44,6 +44,8 @@ https://github.com/Nitinadhikari01/my_store/blob/e2e4f4f0edbb87abd91a0a6f93233c2
 
 
 #### Upadate Product
+https://github.com/Nitinadhikari01/my_store/blob/e2e4f4f0edbb87abd91a0a6f93233c27f3ff3dcc/MyStore/screenshot/Screenshot%20(90).png
 
 
 #### View sale
+https://github.com/Nitinadhikari01/my_store/blob/e2e4f4f0edbb87abd91a0a6f93233c27f3ff3dcc/MyStore/screenshot/Screenshot%20(91).png
