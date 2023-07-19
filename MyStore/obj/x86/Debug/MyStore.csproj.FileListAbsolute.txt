@@ -1,0 +1,57 @@
+E:\C#\MyStore\MyStore\bin\Debug\MyStore.exe
+E:\C#\MyStore\MyStore\bin\Debug\MyStore.pdb
+E:\C#\MyStore\MyStore\obj\x86\Debug\MyStore.DeshBoard.resources
+E:\C#\MyStore\MyStore\obj\x86\Debug\MyStore.Login.resources
+E:\C#\MyStore\MyStore\obj\x86\Debug\MyStore.Properties.Resources.resources
+E:\C#\MyStore\MyStore\obj\x86\Debug\MyStore.csproj.GenerateResource.Cache
+E:\C#\MyStore\MyStore\obj\x86\Debug\MyStore.exe
+E:\C#\MyStore\MyStore\obj\x86\Debug\MyStore.pdb
+E:\C#\MyStore\MyStore\obj\x86\Debug\MyStore.CreateUser.resources
+E:\C#\MyStore\MyStore\obj\x86\Debug\MyStore.Bill.resources
+E:\C#\MyStore\MyStore\bin\Debug\mystore.mdb
+E:\C#\MyStore\MyStore\obj\x86\Debug\MyStore.csprojResolveAssemblyReference.cache
+E:\C#\MyStore\MyStore\obj\x86\Debug\MyStore.ChangePassword.resources
+E:\C#\MyStore\MyStore\obj\x86\Debug\MyStore.UpdateProduct.resources
+E:\C#\MyStore\MyStore\obj\x86\Debug\MyStore.AddProduct.resources
+E:\C#\MyStore\MyStore\obj\x86\Debug\MyStore.ViewSale.resources
+E:\C#\MyStore\MyStore\bin\Debug\MyStore.exe.config
+E:\C#\MyStore\MyStore\obj\x86\Debug\MyStore.UserBuy.resources
+E:\C#\MyStore\MyStore\obj\x86\Debug\MyStore.Contact.resources
+D:\micromax_240523\New folder\GeneralStore-master\MyStore\bin\Debug\mystore.mdb
+D:\micromax_240523\New folder\GeneralStore-master\MyStore\bin\Debug\MyStore.exe.config
+D:\micromax_240523\New folder\GeneralStore-master\MyStore\bin\Debug\MyStore.exe
+D:\micromax_240523\New folder\GeneralStore-master\MyStore\bin\Debug\MyStore.pdb
+D:\micromax_240523\New folder\GeneralStore-master\MyStore\obj\x86\Debug\MyStore.csproj.AssemblyReference.cache
+D:\micromax_240523\New folder\GeneralStore-master\MyStore\obj\x86\Debug\MyStore.AddProduct.resources
+D:\micromax_240523\New folder\GeneralStore-master\MyStore\obj\x86\Debug\MyStore.Bill.resources
+D:\micromax_240523\New folder\GeneralStore-master\MyStore\obj\x86\Debug\MyStore.ChangePassword.resources
+D:\micromax_240523\New folder\GeneralStore-master\MyStore\obj\x86\Debug\MyStore.CreateUser.resources
+D:\micromax_240523\New folder\GeneralStore-master\MyStore\obj\x86\Debug\MyStore.DeshBoard.resources
+D:\micromax_240523\New folder\GeneralStore-master\MyStore\obj\x86\Debug\MyStore.Login.resources
+D:\micromax_240523\New folder\GeneralStore-master\MyStore\obj\x86\Debug\MyStore.Properties.Resources.resources
+D:\micromax_240523\New folder\GeneralStore-master\MyStore\obj\x86\Debug\MyStore.UpdateProduct.resources
+D:\micromax_240523\New folder\GeneralStore-master\MyStore\obj\x86\Debug\MyStore.UserBuy.resources
+D:\micromax_240523\New folder\GeneralStore-master\MyStore\obj\x86\Debug\MyStore.ViewSale.resources
+D:\micromax_240523\New folder\GeneralStore-master\MyStore\obj\x86\Debug\MyStore.csproj.GenerateResource.cache
+D:\micromax_240523\New folder\GeneralStore-master\MyStore\obj\x86\Debug\MyStore.csproj.CoreCompileInputs.cache
+D:\micromax_240523\New folder\GeneralStore-master\MyStore\obj\x86\Debug\MyStore.exe
+D:\micromax_240523\New folder\GeneralStore-master\MyStore\obj\x86\Debug\MyStore.pdb
+D:\micromax_240523\New folder\Billing Sys\MyStore\bin\Debug\mystore.mdb
+D:\micromax_240523\New folder\Billing Sys\MyStore\bin\Debug\MyStore.exe.config
+D:\micromax_240523\New folder\Billing Sys\MyStore\bin\Debug\MyStore.exe
+D:\micromax_240523\New folder\Billing Sys\MyStore\bin\Debug\MyStore.pdb
+D:\micromax_240523\New folder\Billing Sys\MyStore\obj\x86\Debug\MyStore.csproj.AssemblyReference.cache
+D:\micromax_240523\New folder\Billing Sys\MyStore\obj\x86\Debug\MyStore.AddProduct.resources
+D:\micromax_240523\New folder\Billing Sys\MyStore\obj\x86\Debug\MyStore.Bill.resources
+D:\micromax_240523\New folder\Billing Sys\MyStore\obj\x86\Debug\MyStore.ChangePassword.resources
+D:\micromax_240523\New folder\Billing Sys\MyStore\obj\x86\Debug\MyStore.CreateUser.resources
+D:\micromax_240523\New folder\Billing Sys\MyStore\obj\x86\Debug\MyStore.DeshBoard.resources
+D:\micromax_240523\New folder\Billing Sys\MyStore\obj\x86\Debug\MyStore.Login.resources
+D:\micromax_240523\New folder\Billing Sys\MyStore\obj\x86\Debug\MyStore.Properties.Resources.resources
+D:\micromax_240523\New folder\Billing Sys\MyStore\obj\x86\Debug\MyStore.UpdateProduct.resources
+D:\micromax_240523\New folder\Billing Sys\MyStore\obj\x86\Debug\MyStore.UserBuy.resources
+D:\micromax_240523\New folder\Billing Sys\MyStore\obj\x86\Debug\MyStore.ViewSale.resources
+D:\micromax_240523\New folder\Billing Sys\MyStore\obj\x86\Debug\MyStore.csproj.GenerateResource.cache
+D:\micromax_240523\New folder\Billing Sys\MyStore\obj\x86\Debug\MyStore.csproj.CoreCompileInputs.cache
+D:\micromax_240523\New folder\Billing Sys\MyStore\obj\x86\Debug\MyStore.exe
+D:\micromax_240523\New folder\Billing Sys\MyStore\obj\x86\Debug\MyStore.pdb
